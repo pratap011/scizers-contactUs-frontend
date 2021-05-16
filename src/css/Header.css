@@ -1,0 +1,18 @@
+.nav-bar{
+    background-image: url('contact-us.jpg');
+    /* background-repeat: no-repeat; */
+    background-attachment:inherit;
+    background-size: 100%;
+    position: absolute;
+    width: 100%;
+    top:0%;
+    height:50%;
+    
+}
+
+.heading-nav{
+    margin-top: 7%;
+    font-size: 50px;
+    font-family:monospace;
+    color: rgb(196, 170, 22);
+}
